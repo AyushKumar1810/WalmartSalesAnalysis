@@ -1,0 +1,109 @@
+Month,Product line,Gender,Payment,Total
+2019-01,Electronic accessories,Female,Cash,2731.86
+2019-01,Electronic accessories,Female,Credit card,3045.42
+2019-01,Electronic accessories,Female,Ewallet,1576.48
+2019-01,Electronic accessories,Male,Cash,3380.29
+2019-01,Electronic accessories,Male,Credit card,2248.65
+2019-01,Electronic accessories,Male,Ewallet,4951.860000000001
+2019-01,Fashion accessories,Female,Cash,3845.24
+2019-01,Fashion accessories,Female,Credit card,2535.52
+2019-01,Fashion accessories,Female,Ewallet,4475.81
+2019-01,Fashion accessories,Male,Cash,1459.32
+2019-01,Fashion accessories,Male,Credit card,3210.61
+2019-01,Fashion accessories,Male,Ewallet,2897.42
+2019-01,Food and beverages,Female,Cash,5197.05
+2019-01,Food and beverages,Female,Credit card,3419.7699999999995
+2019-01,Food and beverages,Female,Ewallet,2845.5099999999998
+2019-01,Food and beverages,Male,Cash,1927.02
+2019-01,Food and beverages,Male,Credit card,3797.2400000000002
+2019-01,Food and beverages,Male,Ewallet,1452.01
+2019-01,Health and beauty,Female,Cash,878.27
+2019-01,Health and beauty,Female,Credit card,1774.3999999999999
+2019-01,Health and beauty,Female,Ewallet,2471.17
+2019-01,Health and beauty,Male,Cash,3732.94
+2019-01,Health and beauty,Male,Credit card,3712.44
+2019-01,Health and beauty,Male,Ewallet,3033.8
+2019-01,Home and lifestyle,Female,Cash,3618.8
+2019-01,Home and lifestyle,Female,Credit card,4388.16
+2019-01,Home and lifestyle,Female,Ewallet,2698.07
+2019-01,Home and lifestyle,Male,Cash,3396.24
+2019-01,Home and lifestyle,Male,Credit card,1131.21
+2019-01,Home and lifestyle,Male,Ewallet,4286.32
+2019-01,Sports and travel,Female,Cash,5206.46
+2019-01,Sports and travel,Female,Credit card,3570.0299999999997
+2019-01,Sports and travel,Female,Ewallet,2044.8200000000002
+2019-01,Sports and travel,Male,Cash,4407.54
+2019-01,Sports and travel,Male,Credit card,3591.86
+2019-01,Sports and travel,Male,Ewallet,1814.55
+2019-02,Electronic accessories,Female,Cash,5189.16
+2019-02,Electronic accessories,Female,Credit card,2542.08
+2019-02,Electronic accessories,Female,Ewallet,2395.43
+2019-02,Electronic accessories,Male,Cash,1590.25
+2019-02,Electronic accessories,Male,Credit card,3145.49
+2019-02,Electronic accessories,Male,Ewallet,1673.69
+2019-02,Fashion accessories,Female,Cash,3594.98
+2019-02,Fashion accessories,Female,Credit card,3043.29
+2019-02,Fashion accessories,Female,Ewallet,4155.27
+2019-02,Fashion accessories,Male,Cash,2694.8999999999996
+2019-02,Fashion accessories,Male,Credit card,2510.46
+2019-02,Fashion accessories,Male,Ewallet,2105.73
+2019-02,Food and beverages,Female,Cash,3417.24
+2019-02,Food and beverages,Female,Credit card,4499.38
+2019-02,Food and beverages,Female,Ewallet,2814.74
+2019-02,Food and beverages,Male,Cash,2374.27
+2019-02,Food and beverages,Male,Credit card,3377.46
+2019-02,Food and beverages,Male,Ewallet,2564.87
+2019-02,Health and beauty,Female,Cash,4218.83
+2019-02,Health and beauty,Female,Credit card,1792.37
+2019-02,Health and beauty,Female,Ewallet,1344.95
+2019-02,Health and beauty,Male,Cash,1406.58
+2019-02,Health and beauty,Male,Credit card,2438.87
+2019-02,Health and beauty,Male,Ewallet,2705.31
+2019-02,Home and lifestyle,Female,Cash,2424.18
+2019-02,Home and lifestyle,Female,Credit card,2369.27
+2019-02,Home and lifestyle,Female,Ewallet,1520.9900000000002
+2019-02,Home and lifestyle,Male,Cash,2656.4
+2019-02,Home and lifestyle,Male,Credit card,839.8100000000001
+2019-02,Home and lifestyle,Male,Ewallet,2031.62
+2019-02,Sports and travel,Female,Cash,2449.13
+2019-02,Sports and travel,Female,Credit card,1842.21
+2019-02,Sports and travel,Female,Ewallet,4039.41
+2019-02,Sports and travel,Male,Cash,2028.2099999999998
+2019-02,Sports and travel,Male,Credit card,1466.0
+2019-02,Sports and travel,Male,Ewallet,1327.0500000000002
+2019-03,Electronic accessories,Female,Cash,2759.66
+2019-03,Electronic accessories,Female,Credit card,3052.9
+2019-03,Electronic accessories,Female,Ewallet,2518.46
+2019-03,Electronic accessories,Male,Cash,4091.62
+2019-03,Electronic accessories,Male,Credit card,658.81
+2019-03,Electronic accessories,Male,Ewallet,4197.92
+2019-03,Fashion accessories,Female,Cash,1445.19
+2019-03,Fashion accessories,Female,Credit card,3578.36
+2019-03,Fashion accessories,Female,Ewallet,2314.34
+2019-03,Fashion accessories,Male,Cash,3735.41
+2019-03,Fashion accessories,Male,Credit card,1631.3500000000001
+2019-03,Fashion accessories,Male,Ewallet,2486.7000000000003
+2019-03,Food and beverages,Female,Cash,3601.0699999999997
+2019-03,Food and beverages,Female,Credit card,2566.32
+2019-03,Food and beverages,Female,Ewallet,3230.27
+2019-03,Food and beverages,Male,Cash,1779.42
+2019-03,Food and beverages,Male,Credit card,1611.44
+2019-03,Food and beverages,Male,Ewallet,2996.2
+2019-03,Health and beauty,Female,Cash,1555.04
+2019-03,Health and beauty,Female,Credit card,1767.17
+2019-03,Health and beauty,Female,Ewallet,1874.9299999999998
+2019-03,Health and beauty,Male,Cash,4578.92
+2019-03,Health and beauty,Male,Credit card,3723.77
+2019-03,Health and beauty,Male,Ewallet,3841.42
+2019-03,Home and lifestyle,Female,Cash,2748.5099999999998
+2019-03,Home and lifestyle,Female,Credit card,2300.39
+2019-03,Home and lifestyle,Female,Ewallet,6538.18
+2019-03,Home and lifestyle,Male,Cash,2859.6800000000003
+2019-03,Home and lifestyle,Male,Credit card,2288.37
+2019-03,Home and lifestyle,Male,Ewallet,3200.86
+2019-03,Sports and travel,Female,Cash,1799.53
+2019-03,Sports and travel,Female,Credit card,2863.86
+2019-03,Sports and travel,Female,Ewallet,3398.57
+2019-03,Sports and travel,Male,Cash,2084.19
+2019-03,Sports and travel,Male,Credit card,3633.9
+2019-03,Sports and travel,Male,Ewallet,4930.61
